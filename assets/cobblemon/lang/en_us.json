@@ -60,7 +60,7 @@
   "cobblemon.battle.singleturn.cleave": "%1$s braces for impact.",
   "cobblemon.battle.activate.cleave": "%1$s's strata cleaved.",
   "cobblemon.move.featherbarrage": "Feather Barrage",
-  "cobblemon.move.featherbarrage.desc": "The user flaps a wing to release feathers, then launches 3 feathers at the opposing Pokémon",
+  "cobblemon.move.featherbarrage.desc": "The user launches as many feathers as it can before the opponent moves. The faster the user is than the target, the more this move hits. If the opponent has already moved it hits once, and if the opponent is not going to move it will hit 5 times.",
   "cobblemon.move.crystallinesnare": "Crystalline Snare",
   "cobblemon.move.crystallinesnare.desc": "The user attacks the opposing Pokémon with webs and lowers the target's Defense and Sp. Def every turn.",
   "cobblemon.battle.activate.crystallinesnare": "%1$s has been trapped in crystal embedded webs.",
