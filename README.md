@@ -1,1 +1,2 @@
-# purgamon-fakemon-assets
+# Purgamon Assets
+The assets for the [main repo](https://github.com/toBlanch/purgamon-fakemons)
