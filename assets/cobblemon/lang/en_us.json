@@ -62,6 +62,13 @@
 
   "cobblemon.move.absolutesalvo": "Absolute Salvo",
   "cobblemon.move.absolutesalvo.desc": "The user fires all of its electrically charged Energy in a full-power barrage. After attacking, the user loses its Electric type and hits again, dealing physical damage.",
+  "cobblemon.move.bonefragments": "Bone Fragments",
+  "cobblemon.move.bonefragments.desc": "The user scatters bones on the opponent's side, hurting grounded foes that switch into battle. The bones are removed after 3 uses. This move is not meant to be usable directly so if you're reading this either you're looking in the source code or you're a dirty hacker.",
+  "cobblemon.battle.sidestart.opponent.bonefragments": "Bone Fragments were scattered on the ground all around the opposing team!",
+  "cobblemon.battle.sidestart.ally.bonefragments": "Bone Fragments were scattered on the ground all around your team!",
+  "cobblemon.battle.sideend.opponent.bonefragments": "Sharp bones crumbled away from the ground around the opposing team!",
+  "cobblemon.battle.sideend.ally.bonefragments": "Sharp bones crumbled away from around your team!",
+  "cobblemon.battle.damage.bonefragments": "Sharp fragments cut into %1$s!",
   "cobblemon.move.boulderbash": "Boulder Bash",
   "cobblemon.move.boulderbash.desc": "The user tackles the target with its rocky body.",
   "cobblemon.move.cleave": "Cleave",
@@ -80,6 +87,8 @@
   "cobblemon.move.skywardstrike.desc": "The user sends the opponent flying while taking off.",
   "cobblemon.move.slagrush": "Slag Rush",
   "cobblemon.move.slagrush.desc": "The user fires embers at the target's eyes, and rushes in for a surprise attack.",
+  "cobblemon.move.skeletalstance": "Skeletal Stance",
+  "cobblemon.move.skeletalstance.desc": "The user protects itself using its skeletal body. Direct contact will shatter a part of its skeleton, scattering bone fragments on the opponent's side.",
   "cobblemon.move.updraft": "Updraft",
   "cobblemon.move.updraft.desc": "The user uses the wind to quickly retreat while slowing down the opponent.",
 
