@@ -88,7 +88,8 @@
   "cobblemon.move.slagrush": "Slag Rush",
   "cobblemon.move.slagrush.desc": "The user fires embers at the target's eyes, and rushes in for a surprise attack.",
   "cobblemon.move.skeletalstance": "Skeletal Stance",
-  "cobblemon.move.skeletalstance.desc": "The user protects itself using its skeletal body. Direct contact will shatter a part of its skeleton, scattering bone fragments on the opponent's side.",
+  "cobblemon.move.skeletalstance.desc": "The user braces itself using its skeletal body, reducing incoming damage. Direct contact will shatter a part of its skeleton, scattering bone fragments on the opponent's side.",
+  "cobblemon.battle.singleturn.skeletalstance": "%1$s braces itself..",
   "cobblemon.move.updraft": "Updraft",
   "cobblemon.move.updraft.desc": "The user uses the wind to quickly retreat while slowing down the opponent.",
 
